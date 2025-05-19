@@ -1,0 +1,2 @@
+# Optimal_Scalogram_for_Computational_Complexity_Reduction_in_Acoustic_Recognition_Using_Deep_Learning
+To reduce computational complexity in deep learning-based acoustic recognition, this approach utilizes downsampled scalograms and shortened wavelet kernel lengths.
